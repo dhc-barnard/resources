@@ -4,7 +4,6 @@ The staff at the Digital Humanities Center at Barnard College is working to crea
 
 As resources become available, they will be linked below!
 
-/
 
 ### Omeka
 - Getting Started with Omeka
