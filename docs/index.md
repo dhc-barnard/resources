@@ -1,5 +1,5 @@
 ---
-title: DHC Resource Hub
+title: Digital Humanities Resource Hub
 ---
 
 # Welcome to the Resource Hub
