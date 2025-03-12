@@ -1,3 +1,7 @@
+---
+title: DHC Resource Hub
+---
+
 # Welcome to the Resource Hub
 
 The staff at the Digital Humanities Center at Barnard College is working to create publicly available resources relating to Omeka, Twine, Hypothesis, WordPress, and more. These resources are derivatives of course-specific handouts, tipsheets, and workshops from the 2024-2025 school year.
