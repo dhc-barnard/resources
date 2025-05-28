@@ -10,7 +10,7 @@ As resources become available, they will be linked below!
 
 
 ### Omeka
-- Getting Started with Omeka
+- [Getting Started with Omeka](omeka.md)
 - Creating Exhibits with Omeka
 
 ### Twine
